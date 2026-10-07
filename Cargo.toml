@@ -1,0 +1,3 @@
+[workspace]
+members = ["ironrunner_gui", "ironrunner",]
+resolver = "3"
